@@ -8,7 +8,7 @@
 <h1 align="center">Hello, I am Emam Saimon...</h1>
 <h3 align="center"><b></b><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=4000&pause=1000&color=F7077D&width=500&lines=Fron-tend+Wed+developer+%7C%7C+Qt6++%7C%7C+C%2B%2B;Java+%E2%98%95+%7C%7C+Three+js+%7C%7C+Tailwind+CSS+;HTML5++%7C%7C+CSS++%7C%7C+React+%7C%7C+GSAP" alt="Typing SVG" /></a></h3></h3>
 
-- 🔭 I’m currently working on [Reat](E:\E\reactpractice)
+- 🔭 I’m currently working on [React](E:\E\reactpractice)
 
 - 🌱 I’m currently learning **React**
 
