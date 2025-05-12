@@ -2,12 +2,11 @@
   <img src="EmamSaimon592.jpg" alt="Cover Image" width="100%" />
 </p>
 
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1Bfnaua127/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saimon123?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/EZezhy435?t=oV6dyk5eEx7jbzuAbZxG3A&s=09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emamsaimon23@gmail.com) 
 
-<h1 align="center">Hi 👋, I'm Emam Saimon</h1>
-<h3 align="center">Fron-tend Wed developer || Qt6 || C++ || Three js</h3>
+<h1 align="center">Hello, I am Emam Saimon...</h1>
+<h3 align="center"><b></b><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=4000&pause=1000&color=F7077D&width=500&lines=Fron-tend+Wed+developer+%7C%7C+Qt6++%7C%7C+C%2B%2B;Java+%E2%98%95+%7C%7C+Three+js+%7C%7C+Tailwind+CSS+;HTML5++%7C%7C+CSS++%7C%7C+React+%7C%7C+GSAP" alt="Typing SVG" /></a></h3></h3>
 
 - 🔭 I’m currently working on [Reat](E:\E\reactpractice)
 
