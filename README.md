@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="EmamSaimon592.jpg" alt="Cover Image" width="100%" />
+</p>
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1Bfnaua127/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saimon123?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/EZezhy435?t=oV6dyk5eEx7jbzuAbZxG3A&s=09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emamsaimon23@gmail.com) 
 
