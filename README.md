@@ -17,21 +17,22 @@
   <img src="emamsaimongif.gif" alt="Demo GIF" />
 </p>
 
-### ✅ 𝚃𝚎𝚌𝚑 𝙸'𝚖  𝚆𝚘𝚛𝚔𝚒𝚗𝚐  𝚆𝚒𝚝𝚑
+### ✅ Tech I'm working with
 - 🌱 Currently learning: **React**, **MySQL**, **PostgreSQL**, **Git & GitHub**, **Docker** <p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a></p>
-- 🔭 Actively building projects with: **Three js**, **GSAP**
+- 🔭 Actively building projects with: **Three js**, **GSAP** <p align="left">![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) </p>
 
 ---
 
-### 📂 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 & 𝙲𝚘𝚗𝚝𝚎𝚗𝚝
-- 👨‍💻 All my projects: [GitHub/EmamSaimon592](https://github.com/EmamSaimon592)
-- 📝 Articles & updates: [LinkedIn Profile](https://www.linkedin.com/in/saimon123?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+### 📂 Projects & Content
+- 👨‍💻 All my projects: [GitHub/EmamSaimon592](https://github.com/EmamSaimon592)<p align="left">[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=for-the-badge)](https://github.com/EmamSaimon592)</p>
+  
+- 📝 Articles & updates: [LinkedIn Profile](https://www.linkedin.com/in/saimon123?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)<p align="left">[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/saimon123/)</p>
 
 ---
 
-### 📫 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎
-- 💌 Email: **emamsaimon23@gmail.com**
-- 📄 Resume: [View on LinkedIn](https://www.linkedin.com/in/saimon123?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+### 📞 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎
+- 💌 Email: **emamsaimon23@gmail.com**<p align="left">[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emamsaimon23@gmail.com) </p>
+- 📄 Resume: [View on LinkedIn](https://www.linkedin.com/in/saimon123?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)<p align="left">[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saimon123?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)</p>
 
 ---
 
