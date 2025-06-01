@@ -5,7 +5,8 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1Bfnaua127/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saimon123?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/EZezhy435?t=oV6dyk5eEx7jbzuAbZxG3A&s=09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emamsaimon23@gmail.com) 
 
-<h1 align="center">Hello, I'm Emam Saimon...</h1>
+
+<h1 align="center">Hey, I am Emam Saimon...</h1>
 <h3 align="center"><b></b><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=4000&pause=1000&color=F7077D&width=500&lines=Fron-tend+Wed+developer+%7C%7C+Qt6++%7C%7C+C%2B%2B;Java+%E2%98%95+%7C%7C+Three+js+%7C%7C+Tailwind+CSS+;HTML5++%7C%7C+CSS++%7C%7C+React+%7C%7C+GSAP" alt="Typing SVG" /></a></h3></h3>
 
 
@@ -16,24 +17,33 @@
   <img src="emamsaimongif.gif" alt="Demo GIF" />
 </p>
 
-- 🔭 I’m currently working on [React](E:\E\reactpractice)
+### ✅ 𝚃𝚎𝚌𝚑 𝙸'𝚖  𝚆𝚘𝚛𝚔𝚒𝚗𝚐  𝚆𝚒𝚝𝚑
+- 🌱 Currently learning: **React**
+- 🔭 Actively building projects with: **React**, **GSAP**
 
-- 🌱 I’m currently learning **React**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/EmamSaimon592](https://github.com/EmamSaimon592)
+### 📂 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 & 𝙲𝚘𝚗𝚝𝚎𝚗𝚝
+- 👨‍💻 All my projects: [GitHub/EmamSaimon592](https://github.com/EmamSaimon592)
+- 📝 Articles & updates: [LinkedIn Profile](https://www.linkedin.com/in/saimon123?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/saimon123?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/saimon123?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+---
 
-- 💬 Ask me about **react and GSAP**
+### 📫 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎
+- 💌 Email: **emamsaimon23@gmail.com**
+- 📄 Resume: [View on LinkedIn](https://www.linkedin.com/in/saimon123?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-- 📫 How to reach me **emamsaimon23@gmail.com**
+---
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/saimon123?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/saimon123?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+### ⚡ 𝙵𝚞𝚗 𝙵𝚊𝚌𝚝  
+> *I told my computer I needed a break… Now it won’t stop sending me vacation ads.* 😄
 
-- ⚡ Fun fact **I told my computer I needed a break… Now it won’t stop sending me vacation ads.**
+---
 
-  
-![Visitor Count](https://komarev.com/ghpvc/?username=EmamSaimon592&color=red)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EmamSaimon592&color=green&style=flat-square" alt="Visitor count"/>
+</p>
+
 
 
 # 📊 GitHub Stats:
