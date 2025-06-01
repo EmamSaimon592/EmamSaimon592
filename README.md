@@ -32,6 +32,8 @@
 
 - ⚡ Fun fact **I told my computer I needed a break… Now it won’t stop sending me vacation ads.**
 
+  
+![Visitor Count](https://komarev.com/ghpvc/?username=EmamSaimon592&color=red)
 
 
 # 📊 GitHub Stats:
@@ -72,3 +74,4 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
