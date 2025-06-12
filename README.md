@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="EmamSaimon592.jpg" alt="Cover Image" width="100%" />
+  <img src="bg2.jpg" alt="Cover Image" width="100%" />
 </p>
 
 ## 🌐 Socials:
