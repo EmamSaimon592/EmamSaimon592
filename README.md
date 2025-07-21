@@ -25,6 +25,10 @@
   </a></p>
 - 🔭 Actively building projects with: **Three js**, **GSAP** <p align="left">![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) </p>
 
+<p align="center">
+  <img src="emamgif2.gif" alt="Demo GIF" />
+</p>
+
 ---
 
 ### 📂 Projects & Content
