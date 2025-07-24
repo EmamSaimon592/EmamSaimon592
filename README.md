@@ -26,7 +26,13 @@
 - 🔭 Actively building projects with: **Three js**, **GSAP** <p align="left">![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) </p>
 
 <p align="center">
-  <img src="emamgif2.gif" alt="Demo GIF" />
+  <table align="center">
+    <tr>
+      <td><img src="reels1.gif" width="200" style="border: 10px solid black;"> &nbsp;&nbsp;&nbsp;</td>
+      <td><img src="reels2.gif" width="200" style="border: 10px solid black;">&nbsp;&nbsp;&nbsp;</td>
+      <td><img src="reels3.gif" width="200" style="border: 10px solid black;"> &nbsp;&nbsp;&nbsp;</td>
+    </tr>
+  </table>
 </p>
 
 ---
