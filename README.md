@@ -44,6 +44,11 @@
 - 💌 Email: **emamsaimon23@gmail.com**<p align="left">[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emamsaimon23@gmail.com) </p>
 - 📄 Resume: [View on LinkedIn](https://www.linkedin.com/in/saimon123?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)<p align="left">[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saimon123?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EmamSaimon592&color=green&style=flat-square" alt="Visitor count"/>
+</p>
+
+
 ---
 
 ### ⚡ 𝙵𝚞𝚗 𝙵𝚊𝚌𝚝  
@@ -57,13 +62,6 @@
 </p>
 
 ---
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EmamSaimon592&color=green&style=flat-square" alt="Visitor count"/>
-</p>
-
-
 
 # 📊 GitHub Stats:
 <div align ="center">
