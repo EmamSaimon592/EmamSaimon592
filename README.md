@@ -7,7 +7,7 @@
 
 
 
-<!-- gif images -->
+<!-- gif images (reels) -->
 <p align="center">
   <table align="center">
     <tr>
@@ -21,6 +21,7 @@
 
 <h1 align="center">Hey, I am Emam Saimon...</h1>
 <h3 align="center"><b></b><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=16&duration=3000&pause=1000&color=FF0000&background=7CFFF700&width=446&lines=C%2B%2B+%7C%7C+JavaScript+%7C%7C+TypeScript+%7C%7C+Three+js;MySQL++%7C%7C+PostgreSQL++%7C%7C+MongoDB+%7C%7C+Docker;Tailwind+CSS+%7C%7C+GSAP+%7C%7C+Python+%26+tkinter+" alt="Typing SVG" /></a></h3></h3>
+
 
 
 ### ✅ Tech I'm working with
@@ -43,6 +44,12 @@
 ### 📞 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎
 - 💌 Email: **emamsaimon23@gmail.com**<p align="left">[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emamsaimon23@gmail.com) </p>
 - 📄 Resume: [View on LinkedIn](https://www.linkedin.com/in/saimon123?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)<p align="left">[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saimon123?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)</p>
+
+<!-- Let's work together gif image -->
+<p align="center">
+  <img src="letswork.gif" alt="Cover Image" width="100%" />
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=EmamSaimon592&color=green&style=flat-square" alt="Visitor count"/>
@@ -95,8 +102,5 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1Bfnaua127/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saimon123?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/EZezhy435?t=oV6dyk5eEx7jbzuAbZxG3A&s=09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emamsaimon23@gmail.com) 
 
-<p align="center">
-  <img src="bg2.jpg" alt="Cover Image" width="100%" />
-</p>
 
 
