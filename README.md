@@ -11,10 +11,10 @@
 <p align="center">
   <table align="center">
     <tr>
-      <td><img src="reels1.gif" width="150" style="border: 10px solid black;"> &nbsp;&nbsp;&nbsp;</td>
-      <td><img src="reels2.gif" width="150" style="border: 10px solid black;">&nbsp;&nbsp;&nbsp;</td>
-      <td><img src="reels.gif" width="150" style="border: 10px solid black;"> &nbsp;&nbsp;&nbsp;</td>
-      <td><img src="reels3.gif" width="150" style="border: 10px solid black;"> &nbsp;&nbsp;&nbsp;</td>      
+      <td><img src="reels1.gif" width="120" style="border: 10px solid black;"> &nbsp;&nbsp;&nbsp;</td>
+      <td><img src="reels2.gif" width="120" style="border: 10px solid black;">&nbsp;&nbsp;&nbsp;</td>
+      <td><img src="reels.gif" width="120" style="border: 10px solid black;"> &nbsp;&nbsp;&nbsp;</td>
+      <td><img src="reels3.gif" width="120" style="border: 10px solid black;"> &nbsp;&nbsp;&nbsp;</td>      
     </tr>
   </table>
 </p>
