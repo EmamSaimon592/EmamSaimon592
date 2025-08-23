@@ -23,10 +23,6 @@
 <h1 align="center">Hey, I'm Emam Saimon...</h1>
 <h3 align="center"><b></b><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=16&duration=3000&pause=1000&color=FF0000&background=7CFFF700&width=446&lines=C%2B%2B+%7C%7C+JavaScript+%7C%7C+TypeScript+%7C%7C+Three+js;MySQL++%7C%7C+PostgreSQL++%7C%7C+MongoDB+%7C%7C+Docker;Tailwind+CSS+%7C%7C+GSAP+%7C%7C+Python+%26+tkinter+" alt="Typing SVG" /></a></h3></h3>
 
-<!-- Let's work together gif image -->
-<p align="center">
-  <img src="letswork.gif" alt="Cover Image" width="100%" />
-</p>
 
 ### ✅ Tech I'm working with
 - 🌱 Currently learning: **React**, **MySQL**, **PostgreSQL**, **Git & GitHub**, **Docker**, **MongoDB** , **QT** , **Node.js** & **Express.js**<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="qt" width="40" height="40"/></a> <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
@@ -50,7 +46,10 @@
 - 📄 Resume: [View on LinkedIn](https://www.linkedin.com/in/saimon123?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)<p align="left">[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saimon123?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)</p>
 
 
-
+<!-- Let's work together gif image -->
+<p align="center">
+  <img src="letswork.gif" alt="Cover Image" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=EmamSaimon592&color=green&style=flat-square" alt="Visitor count"/>
