@@ -77,14 +77,6 @@
    <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=EmamSaimon592&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
    
-
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EmamSaimon592&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-</div>
-
-
 ### ✍️ Random Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
