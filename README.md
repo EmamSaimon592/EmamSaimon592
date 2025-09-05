@@ -37,13 +37,13 @@
 ### 📂 Projects & Content
 - 👨‍💻 All my projects: [GitHub/EmamSaimon592](https://github.com/EmamSaimon592)<p align="left">[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=for-the-badge)](https://github.com/EmamSaimon592)</p>
   
-- 📝 Articles & updates: [LinkedIn Profile](https://www.linkedin.com/in/saimon123?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)<p align="left">[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/saimon123/)</p>
+- 📝 Articles & updates: [LinkedIn Profile](https://www.linkedin.com/in/emam-h-saimon-8328a1382/)<p align="left">[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/emam-h-saimon-8328a1382/)</p>
 
 ---
 
 ### 📞 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎
 - 💌 Email: **emamsaimon23@gmail.com**<p align="left">[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emamsaimon23@gmail.com) </p>
-- 📄 Resume: [View on LinkedIn](https://www.linkedin.com/in/saimon123?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)<p align="left">[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saimon123?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)</p>
+- 📄 Resume: [View on LinkedIn](https://www.linkedin.com/in/emam-h-saimon-8328a1382/)<p align="left">[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emam-h-saimon-8328a1382/)</p>
 
 
 <!-- Let's work together gif image -->
@@ -92,7 +92,7 @@
 [![](https://visitcount.itsvg.in/api?id=EmamSaimon592&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1Bfnaua127/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saimon123?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/EZezhy435?t=oV6dyk5eEx7jbzuAbZxG3A&s=09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emamsaimon23@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1Bfnaua127/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emam-h-saimon-8328a1382/)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/EZezhy435?t=oV6dyk5eEx7jbzuAbZxG3A&s=09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emamsaimon23@gmail.com) 
 
 
 
