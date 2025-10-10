@@ -20,7 +20,7 @@
 </p>
 
 
-<h1 align="center">Hello, I'm Emam Saimon...</h1>
+<h1 align="center">Hey 🖐, I'm Emam Saimon...</h1>
 <h3 align="center"><b></b><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=16&duration=3000&pause=1000&color=FF0000&background=7CFFF700&width=446&lines=C%2B%2B+%7C%7C+JavaScript+%7C%7C+TypeScript+%7C%7C+Three+js;MySQL++%7C%7C+PostgreSQL++%7C%7C+MongoDB+%7C%7C+Docker;Tailwind+CSS+%7C%7C+GSAP+%7C%7C+Python+%26+tkinter+" alt="Typing SVG" /></a></h3></h3>
 
 
