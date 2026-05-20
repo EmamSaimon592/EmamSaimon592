@@ -23,7 +23,7 @@
 <h3 align="center"><b></b><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=16&duration=3000&pause=1000&color=FF0000&background=7CFFF700&width=446&lines=C%2B%2B+%7C%7C+JavaScript+%7C%7C+TypeScript+%7C%7C+Three+js;MySQL++%7C%7C+PostgreSQL++%7C%7C+MongoDB+%7C%7C+Docker;Tailwind+CSS+%7C%7C+GSAP+%7C%7C+Python+%26+tkinter+" alt="Typing SVG" /></a></h3></h3>
 
 
-### ✅ Tech I'm working with
+###  Tech I'm working with
 - 🌱 Currently learning: **React**, **MySQL**, **PostgreSQL**, **Git & GitHub**, **Docker**, **MongoDB** , **QT** , **Node.js** , **Express.js** , **GraphQl** , **Next js**, **&** **kubernetes** <p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="qt" width="40" height="40"/></a> <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   </a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
@@ -59,7 +59,7 @@
 
 ---
 
-### ⚡ 𝙵𝚞𝚗 𝙵𝚊𝚌𝚝  
+###  𝙵𝚞𝚗 𝙵𝚊𝚌𝚝  
 > *I told my computer I needed a break… Now it won’t stop sending me vacation ads.* 😄
 
 ---
@@ -72,7 +72,7 @@
 ---
 
    
-### ✍️ Random Dev Quote
+###  Random Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
