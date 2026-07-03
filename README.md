@@ -7,7 +7,7 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 <!-- gif images (reels) -->
-<p align="center">
+<!-- <p align="center">
   <table align="center">
     <tr>
       <td><img src="reels1.gif" width="120" style="border: 10px solid black;"> &nbsp;&nbsp;&nbsp;</td>
@@ -16,7 +16,12 @@
       <td><img src="reels3.gif" width="120" style="border: 10px solid black;"> &nbsp;&nbsp;&nbsp;</td>      
     </tr>
   </table>
+</p> -->
+
+<p align="center">
+  <img src="fut.png" alt="Cover Image" width="100%" />
 </p>
+
 
 
 <h1 align="center">Hey 🖐, I'm Emam Saimon</h1>
