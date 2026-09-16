@@ -67,6 +67,21 @@
 </p>
 
 ---
+# 📊 GitHub Stats:
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=EmamSaimon592&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=EmamSaimon592&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=EmamSaimon592&theme=blue-green&hide_border=false" />
+
+</div>
+
+---
 
    
 ###  Random Dev Quote
